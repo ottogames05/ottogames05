@@ -13,7 +13,22 @@
 💡 Apasionado por el desarrollo de aplicaciones web modernas  
 🎯 Especializado en diseño web con **HTML & CSS**  
 🖥️ Experiencia en aplicaciones con entorno gráfico en **Java**  
-📊 Interés en análisis de datos con **MySQL** y **Power BI**
+📊 Interés en análisis de datos con **MySQL** y **Power BI**  
+🎮 Primeros proyectos en **Unity (nivel junior inicial)**  
+☁️ Formación en fundamentos de **Cloud Computing (AWS)**  
+
+---
+
+## 🎓 Certificaciones & Formación
+
+✅ **Microsoft Office Specialist (MOS)**  
+✅ **Cisco CyberOps Associate**  
+✅ **Unity Certified Program**  
+✅ **AWS Academy Graduate – Cloud Architecting**  
+✅ **IT Skills – English for IT**  
+✅ **Nivel de inglés B2**  
+
+📚 Formación continua en desarrollo de software, cloud y tecnologías IT  
 
 ---
 
@@ -34,8 +49,11 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+### 🧰 Otras herramientas
 📊 Power BI  
 📦 Business Central  
+🎮 Unity (proyectos básicos)  
+☁️ AWS (formación académica)  
 📝 Markdown  
 
 ---
@@ -46,6 +64,8 @@
 🎨 Diseño limpio, moderno y responsive  
 🖼️ Aplicaciones gráficas en **Java (Swing / JavaFX)**  
 📈 Proyectos que combinan datos y visualización  
+🎮 Explorando el desarrollo de videojuegos con **Unity**  
+☁️ Interés en arquitectura cloud y ciberseguridad  
 
 ---
 
@@ -55,18 +75,20 @@
 🔹 Interfaces gráficas en Java  
 🔹 Proyectos con bases de datos MySQL  
 🔹 Análisis de datos con Power BI  
+🔹 Videojuego sencillo desarrollado en Unity  
 
 ---
 
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&ring=ff0000&fire=0000ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
 </p>
 
 ---
 
-## Diseño & estilo  
+## 🎨 Diseño & estilo  
+
 ✨ Me gusta crear interfaces visuales atractivas y dinámicas  
 🎯 Objetivo: hacer que navegar sea una experiencia fluida y entretenida  
 
@@ -75,3 +97,4 @@
 <p align="center">
   💙 Gracias por visitar mi perfil 💙
 </p>
+``
