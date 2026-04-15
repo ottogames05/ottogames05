@@ -2,7 +2,7 @@
 <h3 align="center">💻 Estudiante de DAM (2º año) | Desarrollo Web & Java</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0D47A1&size=25&center=true&vCenter=true&width=500&lines=Desarrollador+de+Aplicaciones+Web;Amante+de+HTML+%26+CSS;Java+%7C+MySQL+%7C+Data+Analysis" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0D47A1&size=25&center=true&vCenter=true&width=500&lines=Desarrollador+de+Aplicaciones+Multiplataforma;Amante+de+HTML+%26+CSS;Java+%7C+MySQL+%7C+Data+Analysis" />
 </p>
 
 ---
