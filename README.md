@@ -14,8 +14,8 @@
 🎯 Especializado en diseño web con **HTML & CSS**  
 🖥️ Experiencia en aplicaciones con entorno gráfico en **Java**  
 📊 Interés en análisis de datos con **MySQL** y **Power BI**  
-🎮 Primeros proyectos en **Unity (nivel junior inicial)**  
-☁️ Formación en fundamentos de **Cloud Computing (AWS)**  
+🎮 Primeros proyectos en **Unity**  
+☁️ Formación en fundamentos de **Cloud Architecting (AWS)**  
 
 ---
 
